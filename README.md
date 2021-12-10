@@ -1,6 +1,15 @@
 ### Hello! 👋
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="width:2em"><img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="width:2em">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="width:2em">
 
-<span style="font-size:2em">Languages</span>
 
 ```python3 helloworld.py
 print("Hello, world!")
