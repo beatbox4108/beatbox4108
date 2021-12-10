@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! 👋
+
+<span style="font-size:2em">Languages</span>
+
+```python3 helloworld.py
+print("Hello, world!")
+```
+
+I am a Japanese student.
+
+![beatbox4108 GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatbox4108&show_icons=true)
 
 <!--
 **beatbox4108/beatbox4108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
