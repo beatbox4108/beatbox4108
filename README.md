@@ -54,8 +54,12 @@ print("Hello, world!")
 
 I am a Japanese student.
 
-![beatbox4108 GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatbox4108&show_icons=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beatbox4108&count_private=true&show_icons=true&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatbox4108&layout=compact" />
+</a>
 <!--
 **beatbox4108/beatbox4108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
