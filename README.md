@@ -3,6 +3,7 @@
 ![Python3.x](https://img.shields.io/badge/Python-3.x-black.svg?logo=python&style=flat-square&logoColor=white&labelColor=3776AB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-For%20Python3.x-black.svg?logo=numpy&style=flat-square&logoColor=white&labelColor=013243)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-black.svg?logo=flutter&style=flat-square&logoColor=white&labelColor=027DFD)
 ![HTML](https://img.shields.io/badge/HTML-5-black.svg?logo=html5&style=flat-square&logoColor=white&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-3-black.svg?logo=css3&style=flat-square&logoColor=white&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat-square&logoColor=white)
@@ -22,7 +23,8 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?logo=Android&style=flat-square&logoColor=white)
 
 #### Editor / IDE
-![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?logo=visualstudiocode&style=flat-square&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-68217A.svg?style=flat-square&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black.svg?logo=PyCharm&style=flat-square&logoColor=white&labelColor=3776AB)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black.svg?logo=IntelliJIDEA&style=flat-square&logoColor=white&labelColor=FD7702)
 
