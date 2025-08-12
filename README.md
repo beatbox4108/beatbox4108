@@ -13,14 +13,8 @@
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-68217A.svg?style=flat-square&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black.svg?logo=IntelliJIDEA&style=flat-square&logoColor=white&labelColor=FD7702)
 
-#### Others
-![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=GitHub&style=flat-square&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/GoogleColab-Python-3776AB.svg?logo=GoogleColab&style=flat-square&logoColor=white&labelColor=F9AB00)
-![GoogleAnalytics](https://img.shields.io/badge/GoogleAnalytics-GA4-black.svg?logo=GoogleAnalytics&style=flat-square&logoColor=white&labelColor=E37400)
-
 #### Social
 [![Twitter](https://img.shields.io/badge/Twitter-@beatbox4108-1DA1F2.svg?logo=Twitter&style=flat-square&logoColor=white&labelColor=1DA1F2)](https://twitter.com/beatbox4108)
-[![Reddit](https://img.shields.io/badge/Reddit-@beatbox4108-FF4500.svg?logo=Reddit&style=flat-square&logoColor=white&labelColor=FF4500)](https://twitter.com/beatbox4108)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&style=flat-square&logoColor=white)
 
 
@@ -30,12 +24,8 @@ print("Hello, world!")
 
 I am a Japanese student.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beatbox4108&count_private=true&show_icons=true&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatbox4108&layout=compact" />
-</a>
+#### ✨ I'm currently working on a new app... ✨
+
 <!--
 **beatbox4108/beatbox4108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
