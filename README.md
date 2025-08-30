@@ -2,11 +2,10 @@
 ### 🌐Languages
 ![Python3.x](https://img.shields.io/badge/Python-3.x-black.svg?logo=python&style=flat-square&logoColor=white&labelColor=3776AB)
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-black.svg?logo=flutter&style=flat-square&logoColor=white&labelColor=027DFD)
-![HTML](https://img.shields.io/badge/HTML-5-black.svg?logo=html5&style=flat-square&logoColor=white&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-3-black.svg?logo=css3&style=flat-square&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat-square&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120.svg?logo=CSharp&style=flat-square&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-black.svg?logo=Unity&style=flat-square&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Living%20Standard-black.svg?logo=html5&style=flat-square&logoColor=white&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css&style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat-square&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-C%23-239120.svg?logo=Unity&style=flat-square&logoColor=white)
 
 ### ✏️Editor / IDE
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logoColor=white)
@@ -14,13 +13,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black.svg?logo=IntelliJIDEA&style=flat-square&logoColor=white&labelColor=FD7702)
 
 ### 🤝Social
-[![Twitter](https://img.shields.io/badge/Twitter-@beatbox4108-1DA1F2.svg?logo=Twitter&style=flat-square&logoColor=white&labelColor=1DA1F2)](https://twitter.com/beatbox4108)
+[![Twitter](https://img.shields.io/badge/X-@beatbox4108-1DA1F2.svg?logo=X&style=flat-square&logoColor=white&labelColor=black)](https://twitter.com/beatbox4108)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&style=flat-square&logoColor=white)
-
-
-```python3 helloworld.py
-print("Hello, world!")
-```
+![VRChat](https://img.shields.io/badge/VRChat-black.svg?style=flat-square&logoColor=white)
 
 I am a Japanese student.
 
