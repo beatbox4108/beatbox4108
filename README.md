@@ -1,4 +1,9 @@
 ## Hello! 👋
+
+I am a Japanese student.
+
+#### ✨ I'm currently working on a new app... ✨
+
 ### 🌐Languages
 ![Python3.x](https://img.shields.io/badge/Python-3.x-black.svg?logo=python&style=flat-square&logoColor=white&labelColor=3776AB)
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-black.svg?logo=flutter&style=flat-square&logoColor=white&labelColor=027DFD)
@@ -16,10 +21,6 @@
 [![Twitter](https://img.shields.io/badge/X-@beatbox4108-1DA1F2.svg?logo=X&style=flat-square&logoColor=white&labelColor=black)](https://twitter.com/beatbox4108)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&style=flat-square&logoColor=white)
 ![VRChat](https://img.shields.io/badge/VRChat-black.svg?style=flat-square&logoColor=white)
-
-I am a Japanese student.
-
-#### ✨ I'm currently working on a new app... ✨
 
 ### 📈Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
